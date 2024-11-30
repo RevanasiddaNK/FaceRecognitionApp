@@ -5,8 +5,7 @@ A robust face recognition app for real-time face detection and recognition, desi
 ## Features 🌟
 - Real-time face detection and recognition.
 - Pre-trained model integration.
-- REST API for face-related operations.
-- User-friendly UI.
+
 
 ## Tech Stack 🛠️
 - **Libraries:** OpenCV, Dlib, Face_recognition
